@@ -12,10 +12,10 @@ na área da tecnologia
 
 ### detalhes
 
-####intermediário em C -  
+#### intermediário em C -  
 usei cursos gratuito de C no yt   
 
-####iniciante em java -    
+#### iniciante em java -    
 obs: usei a linguagem para aprender os fundamentos da POO  
 li o livro Deitel Java Como Programar 10e até a página 112  
 
