@@ -7,11 +7,10 @@ interesse na área de tecnologia - em específico progamação -
 
 ### Linguagens e Tecnologias
 
-/>
-<img
-  aling="left"
-  title"C - intermediário"
-  width="30px"
-  src"https://c0.klipartz.com/pngpicture/465/779/gratis-png-logotipo-de-c-azul-y-blanco-el-lenguaje-de-programacion-c-computadora-programacion-iconos-de-computadora-programador-thumbnail.png"
-/>
+
+  <img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
+    
+    />
+
   
