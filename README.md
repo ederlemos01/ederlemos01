@@ -12,6 +12,7 @@ na área da tecnologia
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"width="4%" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg"width="4%" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="4%"> 
+
 #### detalhes
 intermediário em c - 
 usei cursos gratuito de C no yt
