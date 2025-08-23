@@ -25,7 +25,7 @@ na área da tecnologia e novo aqui no github
 - usei o livro Deitel Java How to Progam 10e   
 
 #### iniciante em python -  
-- atual linguagem que estudo (pois tenho interesse em entrar no mundo das LLMs)
+- atual linguagem que estudo (pois tenho interesse em entrar no mundo das IA)
 - estou estudando usando o curso Harvard CS50P    
 
 #### Linux
