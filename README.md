@@ -26,10 +26,10 @@ na área da tecnologia e novo aqui no github
 
 #### iniciante em python -  
 - atual linguagem que estudo (pois tenho interesse em entrar no mundo das IA)
-- estou estudando usando o curso Harvard CS50P    
+- estou estudando usando o lCS50's Introduction to Programming with Python by Harvard    
 
 #### Linux
-- tenho experiência com arch linux e IDEs como neovim
+- tenho experiência com linux ( arch linux ) e IDEs como neovim
 
           
           
