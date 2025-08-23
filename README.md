@@ -15,7 +15,7 @@ usei curso gratuito de C no yt
 obs: usei a linguagem para aprender os fundamentos da POO                                                                                                                                                                  li o livro Deitel Java Como Programar 10e até a página 112
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"width="5%" />
 -nivel iniciante -
-atual linguagem que estudo usando o curso CS50P de Harvard
+atual linguagem que estudo usando o curso Harvard CS50P
           
           
 
