@@ -11,6 +11,7 @@ na área da tecnologia
 
 
 ### detalhes
+
 ####intermediário em C -  
 usei cursos gratuito de C no yt   
 
