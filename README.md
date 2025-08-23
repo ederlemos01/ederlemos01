@@ -13,11 +13,10 @@ interesse na área de tecnologia
 usei curso gratuito de C no yt
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"width="5%" />
 
-### nivel iniciante
+#### nivel iniciante
 obs: usei a linguagem para aprender os fundamentos da POO
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"width="5%" />
-nivel iniciante
+####nivel iniciante
           
           
           
