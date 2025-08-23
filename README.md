@@ -7,8 +7,8 @@ interesse na área de tecnologia
 
 ### Linguagens e Tecnologias
 
-
-![C - intermediario](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg) 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+          
 
     
     
