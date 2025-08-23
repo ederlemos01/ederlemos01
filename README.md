@@ -15,8 +15,7 @@ obs: usei a linguagem para aprender os fundamentos da POO, livro Deitel Java Com
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"width="7%" />
 -nivel iniciante -  
 atual linguagem que estudo usando o curso Harvard CS50P
-
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg"width="7%" />
           
           
           
