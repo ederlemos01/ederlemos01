@@ -12,15 +12,16 @@ na área da tecnologia e novo aqui no github
 
 ### detalhes
 
-#### intermediário em C -  
+#### Básico em C -  
 usei cursos gratuito de C no yt   
 
-#### iniciante em java -    
+#### Básico em java -    
 obs: usei a linguagem para aprender os fundamentos da POO  
-li o livro Deitel Java Como Programar 10e até a página 112  
+usei o livro Deitel Java Como Programar 10e   
 
 #### iniciante em python -  
-atual linguagem que estudo (pois tenho interesse em entrar no mundo das LLMs) usando o curso Harvard CS50P    
+- atual linguagem que estudo (pois tenho interesse em entrar no mundo das LLMs) 
+estou estudando usando o curso Harvard CS50P    
 
 #### Linux
 tenho experiência com arch linux e IDEs como neovim
