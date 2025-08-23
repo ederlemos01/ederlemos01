@@ -22,7 +22,7 @@ na área da tecnologia e novo aqui no github
 
 #### Básico em java -    
 - obs: usei a linguagem para aprender os fundamentos da POO  
-- usei o livro Deitel Java Como Programar 10e   
+- usei o livro Deitel Java How to Progam 10e   
 
 #### iniciante em python -  
 - atual linguagem que estudo (pois tenho interesse em entrar no mundo das LLMs)
