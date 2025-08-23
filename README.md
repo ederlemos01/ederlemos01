@@ -7,7 +7,7 @@ interesse na área de tecnologia
 
 ### Linguagens e Tecnologias
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="50%"> />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="10%"> />
           
 
     
