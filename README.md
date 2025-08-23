@@ -13,8 +13,7 @@ na área da tecnologia
 |__$t-nivel iniciante -  
 obs: usei a linguagem para aprender os fundamentos da POO, livro Deitel Java Como Programar 10e até a página 112
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"width="4%" />
--nivel iniciante -  
-|__$tatual linguagem que estudo usando o curso Harvard CS50P
+|__$t-nivel iniciante - atual linguagem que estudo usando o curso Harvard CS50P
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg"width="4%" />
 |__$tenho experiência com linux
           
