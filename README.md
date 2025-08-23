@@ -8,7 +8,15 @@ interesse na área de tecnologia
 ### Linguagens e Tecnologias
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="5%"> 
+nivel intermediário
+usei curso gratuito de C no yt
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"width="5%" />
+nivel iniciante
+obs: usei a linguagem para aprender os fundamentos da POO
+li o livro Deitel Java Como Programar 10e até a pag 112
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"width="5%" />
+nivel iniciante
+          
           
           
 
