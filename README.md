@@ -17,7 +17,7 @@ na área da tecnologia e novo aqui no github
 
 ### detalhes
 
-#### Básico em C -  
+#### intermediário em C -  
 - usei cursos de C do yt   
 
 #### Básico em java -    
