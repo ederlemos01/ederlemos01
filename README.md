@@ -10,11 +10,11 @@ na área da tecnologia
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="5%"> 
 - nivel intermediário  
 usei curso gratuito de C no yt
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"width="5%" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"width="7%" />
 -nivel iniciante -  
 obs: usei a linguagem para aprender os fundamentos da POO  
 li o livro Deitel Java Como Programar 10e até a página 112
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"width="5%" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"width="7%" />
 -nivel iniciante -  
 atual linguagem que estudo usando o curso Harvard CS50P
           
