@@ -23,7 +23,7 @@ li o livro Deitel Java Como Programar 10e até a página 112
 atual linguagem que estudo (pois tenho interesse em entrar no mundo das LLMs) usando o curso Harvard CS50P    
 
 #### Linux
-tenho experiência com arch linuxe  e IDEs como neovim
+tenho experiência com arch linux e IDEs como neovim
 
           
           
