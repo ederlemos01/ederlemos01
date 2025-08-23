@@ -8,13 +8,13 @@ interesse na área de tecnologia
 ## Linguagens e Tecnologias
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="5%"> 
-- nivel intermediário
+- nivel intermediário -
 usei curso gratuito de C no yt
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"width="5%" />
--nivel iniciante
+-nivel iniciante -
 obs: usei a linguagem para aprender os fundamentos da POO
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"width="5%" />
--nivel iniciante
+-nivel iniciante -
 atual linguagem que estudo usando o curso CS50P de Harvard
           
           
