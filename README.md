@@ -29,7 +29,7 @@ na área da tecnologia.
 - estou estudando usando o lCS50's Introduction to Programming with Python by Harvard    
 
 #### Linux
-- tenho experiência com linux ( arch linux ) e IDEs como neovim
+- tenho experiência com linux ( em específico dual boot com arch linux ) e IDEs como neovim
 
           
           
