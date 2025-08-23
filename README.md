@@ -13,15 +13,19 @@ na área da tecnologia
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg"width="4%" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="4%"> 
 
-#### detalhes
-intermediário em c -  
-usei cursos gratuito de C no yt  
-iniciante em java -    
+### detalhes
+####intermediário em C -  
+usei cursos gratuito de C no yt   
+
+####iniciante em java -    
 obs: usei a linguagem para aprender os fundamentos da POO  
 li o livro Deitel Java Como Programar 10e até a página 112  
--nivel iniciante -  
-atual linguagem que estudo (pois tenho interesse em entrar no mundo das LLMs) usando o curso Harvard CS50P  
-tenho experiência com linux
+
+#### iniciante em python -  
+atual linguagem que estudo (pois tenho interesse em entrar no mundo das LLMs) usando o curso Harvard CS50P    
+
+#### Linux
+tenho experiência com arch linuxe  e IDEs como neovim
 
           
           
