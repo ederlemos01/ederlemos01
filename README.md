@@ -8,7 +8,7 @@ na área da tecnologia
 ## Linguagens e Tecnologias
 | Imagem 1 | Imagem 2 | Imagem 3 |
 |:---:|:---:|:---:|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="4%"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="4%"> | <img src="URL_OU_CAMINHO_DA_IMAGEM_3" width="200"> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="200"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="200"> | <img src="URL_OU_CAMINHO_DA_IMAGEM_3" width="200"> |
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="4%"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"width="4%" /> 
