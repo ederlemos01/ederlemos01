@@ -1,10 +1,9 @@
 # Eder Emanuel 
 
 Me chamo Eder Emanuel Lemos Monteiro, tenho 18 anos e sou natural da bahia.  
-
-Atualmente estou cursando Tronco Comum em Computação na UFMG mas a maioria
-do que eu já aprendi atualmente veio de autodidaticismo . Tenho muito 
-interesse na área de tecnologia
+Atualmente estou cursando Tronco Comum em Computação na UFMG mas a maioria  
+do que eu já aprendi atualmente veio de autodidaticismo . Sou muito interessado  
+na área da tecnologia 
 
 ## Linguagens e Tecnologias
 
