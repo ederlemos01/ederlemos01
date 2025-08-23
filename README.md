@@ -8,7 +8,8 @@ interesse na área de tecnologia
 ### Linguagens e Tecnologias
 
 
-![C - intermediario]("https://e7.pngegg.com/pngimages/724/306/png-clipart-c-logo-c-programming-language-icon-letter-c-blue-logo.png) 
+![C - intermediario](""https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg") 
+
     
     
   
