@@ -11,6 +11,7 @@ interesse na área de tecnologia
 ## nivel intermediário
 usei curso gratuito de C no yt
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"width="5%" />
+
 ### nivel iniciante
 obs: usei a linguagem para aprender os fundamentos da POO
 
