@@ -5,10 +5,10 @@ Atualmente estou cursando Tronco Comum em Computação na UFMG mas a maioria
 do que eu já aprendi atualmente veio de autodidaticismo . Tenho muito 
 interesse na área de tecnologia
 
-### Linguagens e Tecnologias
+## Linguagens e Tecnologias
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="5%"> 
-### nivel intermediário
+## nivel intermediário
 usei curso gratuito de C no yt
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"width="5%" />
 ### nivel iniciante
