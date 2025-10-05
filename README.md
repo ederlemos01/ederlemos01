@@ -12,24 +12,7 @@ na área da tecnologia.
            
             
 
-             
-
-
-### detalhes
-
-#### intermediário em C -  
-- usei cursos de C do yt   
-
-#### Básico em java -    
-- obs: usei a linguagem para aprender os fundamentos da POO  
-- usei o livro Deitel Java How to Progam 10e   
-
-#### iniciante em python -  
-- atual linguagem que estudo (pois tenho interesse em entrar no mundo das IA)
-- estou estudando usando o lCS50's Introduction to Programming with Python by Harvard    
-
-#### Linux
-- tenho experiência com linux ( em específico dual boot com arch linux ) e IDEs como neovim
+           
 
           
           
